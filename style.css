@@ -277,7 +277,7 @@ h1 {
     height: 30vh;
     position: absolute;
     bottom: 5%;
-    right: -5%;
+    right: -160%;
     filter: blur(2px);
     z-index: -1;
     animation: float2 6s ease-in-out infinite;
