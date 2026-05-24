@@ -565,6 +565,7 @@ h1 {
     
     .right {
         width: 100%;
+        border-radius: 50px;
     }
     
     .stores button img {
